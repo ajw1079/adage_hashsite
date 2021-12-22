@@ -1,0 +1,7 @@
+/*detail_res.css*/
+@charset "utf-8";
+
+@media (max-width:799px){
+  section .wrap{width: 100%; padding: 0 20px;}
+  footer{position: static;}
+}
